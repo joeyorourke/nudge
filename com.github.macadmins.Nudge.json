@@ -23,7 +23,6 @@
     }
   ]
 }
-  ],
   "userExperience": {
     "allowGracePeriods": false,
     "allowUserQuitDeferrals": true,
